@@ -1,0 +1,165 @@
+# Pi-Hole-Talos-IOCs
+# Created & Maintained by Mike T
+# Last update: 2025-02-06 05:58:06
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/04/coralraider-targets-socialmedia-accounts.json
+doc-0s-44-docstext.googleusercontent.com
+doc-10-44-docstext.googleusercontent.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/04/starry-addax.json
+ondroid.site
+ondroid.store
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/06/cosmic-leopard.json
+androidmetricsasia.com
+dl01.mozillasecurity.com
+officelibraries.com
+javacdnlib.com
+windowsupdatecloud.com
+webbucket.co.uk
+craftwithme.uk
+sexyber.net
+rockamore.co.uk
+androidsdkstream.com
+playstoreapi.net
+sdklibraries.com
+cvscout.uk
+zclouddrive.com
+jdklibraries.com
+cloudieapp.net
+androidadbserver.com
+androidwebkit.com
+teraspace.co.in
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/06/darkgate-remote-template-injection.json
+escuelademarina.com
+passiovinum.com
+irreceiver.com
+diveupdown.com
+backupitfirst.com
+withupdate.com
+wassonite.com
+nextroundst.com
+badbutperfect.com
+wpseed.com
+goingupdate.com
+buassinnndm.net
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/06/new-spicerat-sneakychef.json
+stock.adobe-service.net
+app.turkmensk.org
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/06/sneakychef-sugargh0st-rat.json
+account.drive-google-com.tk
+account.gommask.online
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/08/chinese-hacking-group-apt41-compromised-taiwanese-government-affiliated-research-institute.json
+w2.chatgptsfit.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/08/detecting-evolving-threats-netsupport-rat.json
+choosetotruck.com
+electricnico.com
+jennifergalvin.com
+kineticwing.com
+proexbit.com
+ratingsentry.com
+ripnoticebook.com
+scorelineupdate.com
+suezey.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/08/moonpeak-infrastructure-north-korea.json
+yoiroyse.store
+pumaria.store
+nmailhostserver.store
+nsonlines.store
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/09/DragonRank%2C%20a%20Chinese-speaking%20SEO%20manipulator%20service%20provider.json
+mail.tttseo.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/09/threat-actors-using-macropack.json
+dns1.s-logistics.net
+dns2.s-logistics.net
+api.wilbderreis.ru
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/10/gophish-powerrat-dcrat.json
+disk-yanbex.ru
+e-connection.ru
+strepsils.top
+cr87986.tw1.ru
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/10/highlighting-ta866-asylum-ambuscade.json
+amazonaws.my.id
+amn.net
+bratzfoxes.com
+clarkuniversitycci.net
+criminaly.com
+hydraulex.org
+lesaffre-meca.com
+namesilo.my.id
+onticweb.com
+perfectsystems-ltd.com
+petnibs.com
+spychipsthreat.com
+teamtakeem.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/10/threat-actors-use-copyright-infringement-phishing-lure-to-deploy-infostealers.json
+applyzxcksdia.shop
+arriveoxpzxo.shop
+barebrilliancedkoso.shop
+bindceasdiwozx.shop
+catchddkxozvp.shop
+conferencefreckewl.shop
+conformfucdioz.shop
+considerrycurrentyws.shop
+contemplateodszsv.shop
+declaredczxi.shop
+deprivedrinkyfaiir.shop
+detailbaconroollyws.shop
+falseaudiencekd.shop
+feighminoritsjda.shop
+flourhishdiscovrw.shop
+freezetdopzx.shop
+horsedwollfedrwos.shop
+justifycanddidatewd.shop
+landdumpycolorwskfw.shop
+liabiliytshareodlkv.shop
+marathonbeedksow.shop
+messtimetabledkolvk.shop
+notoriousdcellkw.shop
+ohfantasyproclaiwlo.shop
+parallelmercywksoffw.shop
+patternapplauderw.shop
+pleasurenarrowsdla.shop
+raiseboltskdlwpow.shop
+relaxtionflouwerwi.shop
+replacedoxcjzp.shop
+richardflorespoew.shop
+strwawrunnygjwu.shop
+tribepresentaitsi.shop
+understanndtytonyguw.shop
+varianntyfeecterd.shop
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/10/uat-5647-romcom.json
+adbefnts.dev
+adcreative.pictures
+apisolving.com
+copdaemi.top
+creativeadb.com
+devhubs.dev
+dnsresolver.online
+pos-st.top
+rdcservice.org
+store-images.org
+webtimeapi.com
+wirelesszone.top
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/10/warmcookie-analysis.json
+appmin.checkfedexexp.com
+billing.checkfedexexp.com
+branch1.checkfedexexp.com
+digimind.nl
+jianyun.com
+letjsnod.com
+pankerfan.com
+portals.checkfedexexp.com
+quote.checkfedexexp.com
+reports.checkfedexexp.com
+supports.checkfedexexp.com
+sustaincharlotte.org
+windows.checkfedexexp.com
+www.netzwerkreklame.de
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/11/new-pxa-stealer.json
+tvdseo.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/01/new-tornet-backdoor-campaign.json
+italzformendinggallores.duckdns.org
+humblecrazeforeal8897.accesscam.org
+sertiscoppersail432.freeddns.org
+moristaetdfertal9002.ddnsgeek.com
+paradoncalleke5689.camdvr.org
+greeslieforreallcul5672.casacam.net
+blissfulzerooooos690.ddnsfree.com
+www.blissfulzerooooos690.ddnsfree.com
