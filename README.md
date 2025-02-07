@@ -27,7 +27,7 @@ pihole -g
 ```
 
 ## How It Works
-- A script fetches **new domain IOCs** as published by Cisco Talos.
+- A script fetches **new domain IOCs** as published by Cisco Talos. (https://github.com/Cisco-Talos/IOCs)
 - The script **removes domains older than 12 months** as they are likely no longer relevant to the current threat landscape.
 - The blocklist file is updated and hosted on GitHub for easy use.
 
