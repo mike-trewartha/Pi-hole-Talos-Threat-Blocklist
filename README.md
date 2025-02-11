@@ -16,7 +16,7 @@ This blocklist is automatically updated daily with **malicious domains** publicl
 3. Click **"Add a new adlist"**.
 4. Enter the following URL:
    ```
-   https://raw.githubusercontent.com/mike-trewartha/Pi-hole-Talos-Threat-Blocklist/main/talos_blocklist.txt
+   https://raw.githubusercontent.com/mike-trewartha/Pi-hole-Talos-Threat-Blocklist/main/talos-threats.list
    ```
 5. Click **"Add"** and then **"Update Gravity"** to apply changes.
 
