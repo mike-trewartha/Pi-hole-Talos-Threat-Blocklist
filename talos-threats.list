@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2025-02-07 02:38:29
+# Last update: 2025-02-27 14:30:33
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/04/coralraider-targets-socialmedia-accounts.json
 doc-0s-44-docstext.googleusercontent.com
 doc-10-44-docstext.googleusercontent.com
@@ -163,3 +163,15 @@ paradoncalleke5689.camdvr.org
 greeslieforreallcul5672.casacam.net
 blissfulzerooooos690.ddnsfree.com
 www.blissfulzerooooos690.ddnsfree.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/02/lotus-blossom-espionage-group.json
+cebucafe.net
+cebucfg.org
+davaotour.net
+davoport.org
+jf.doyourbestyet.com
+ns1.poorgoddaay.com
+www.acdserv.com
+www.ilovekalias.com
+www.sensor-data.online
+www.serthk.com
+zg.poorgoddaay.com
