@@ -1,12 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2025-02-27 14:30:33
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/04/coralraider-targets-socialmedia-accounts.json
-doc-0s-44-docstext.googleusercontent.com
-doc-10-44-docstext.googleusercontent.com
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/04/starry-addax.json
-ondroid.site
-ondroid.store
+# Last update: 2025-04-01 14:30:35
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/06/cosmic-leopard.json
 androidmetricsasia.com
 dl01.mozillasecurity.com
