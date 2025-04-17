@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2025-04-11 15:30:31
+# Last update: 2025-04-17 15:30:32
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/06/cosmic-leopard.json
 androidmetricsasia.com
 dl01.mozillasecurity.com
@@ -209,3 +209,7 @@ txtag.vipnd.top
 txtag.vipnu.top
 txtag.vipso.top
 txtag.vipsf.top
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/04/new_XorDDoS_controller_and_infrastructure.json
+ppp.xxxatat456.com
+www1.gggatat456.com
+ppp.gggatat456.com
