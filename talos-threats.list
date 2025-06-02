@@ -1,45 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2025-04-17 15:30:32
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/06/cosmic-leopard.json
-androidmetricsasia.com
-dl01.mozillasecurity.com
-officelibraries.com
-javacdnlib.com
-windowsupdatecloud.com
-webbucket.co.uk
-craftwithme.uk
-sexyber.net
-rockamore.co.uk
-androidsdkstream.com
-playstoreapi.net
-sdklibraries.com
-cvscout.uk
-zclouddrive.com
-jdklibraries.com
-cloudieapp.net
-androidadbserver.com
-androidwebkit.com
-teraspace.co.in
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/06/darkgate-remote-template-injection.json
-escuelademarina.com
-passiovinum.com
-irreceiver.com
-diveupdown.com
-backupitfirst.com
-withupdate.com
-wassonite.com
-nextroundst.com
-badbutperfect.com
-wpseed.com
-goingupdate.com
-buassinnndm.net
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/06/new-spicerat-sneakychef.json
-stock.adobe-service.net
-app.turkmensk.org
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/06/sneakychef-sugargh0st-rat.json
-account.drive-google-com.tk
-account.gommask.online
+# Last update: 2025-06-02 00:13:44
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/08/chinese-hacking-group-apt41-compromised-taiwanese-government-affiliated-research-institute.json
 w2.chatgptsfit.com
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/08/detecting-evolving-threats-netsupport-rat.json
@@ -213,3 +174,9 @@ txtag.vipsf.top
 ppp.xxxatat456.com
 www1.gggatat456.com
 ppp.gggatat456.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/05/iocs_spam-campaign-abuses-rmm-tools.json
+198.45.54.34.bc.googleusercontent.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/05/uat-6382.json
+cdn.phototagx.com
+www.roomako.com
+lgaircon.xyz
