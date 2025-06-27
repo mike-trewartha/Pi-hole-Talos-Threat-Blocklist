@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2025-06-02 00:13:44
+# Last update: 2025-06-27 06:25:36
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/08/chinese-hacking-group-apt41-compromised-taiwanese-government-affiliated-research-institute.json
 w2.chatgptsfit.com
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/08/detecting-evolving-threats-netsupport-rat.json
@@ -180,3 +180,51 @@ ppp.gggatat456.com
 cdn.phototagx.com
 www.roomako.com
 lgaircon.xyz
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/06/python-version-of-golangghost-rat.json
+util.py
+api.quickcamfix.online
+api.auto-fixer.online
+api.quickdriverupdate.online
+api.camtuneup.online
+api.driversofthub.online
+api.drive-release.cloud
+api.vcamfixer.online
+api.nvidia-drive.cloud
+api.nvidia-release.us
+api.autodriverfix.online
+api.camdriversupport.com
+api.smartdriverfix.cloud
+api.drivercams.cloud
+api.camtechdrivers.com
+api.web-cam.cloud
+api.camera-drive.org
+api.nvidia-release.org
+krakenhire.com
+yuga.skillquestions.com
+uniswap.speakure.com
+doodles.skillquestions.com
+www.hireviavideo.com
+kraken.livehiringpro.com
+quiz-nest.com
+www.smartvideohire.com
+www.talent-hiringstep.com
+provevidskillcheck.com
+skill.vidintermaster.com
+digitaltalent.review
+robinhood.ecareerscan.com
+evalswift.com
+livetalentpro.com
+quantumnodespro.com
+evalassesso.com
+parallel.eskillora.com
+coinbase.talentmonitoringtool.com
+uniswap.testforhire.com
+coinbase.talenthiringtool.com
+crosstheages.skillence360.com
+parallel.eskillprov.com
+assesstrack.com
+talent-hiringtalk.com
+uniswap.prehireiq.com
+fast-video-recording.com
+api.fixdiskpro.online
+api.autocamfixer.online
