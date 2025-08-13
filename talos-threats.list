@@ -1,23 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2025-06-27 06:25:36
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/08/chinese-hacking-group-apt41-compromised-taiwanese-government-affiliated-research-institute.json
-w2.chatgptsfit.com
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/08/detecting-evolving-threats-netsupport-rat.json
-choosetotruck.com
-electricnico.com
-jennifergalvin.com
-kineticwing.com
-proexbit.com
-ratingsentry.com
-ripnoticebook.com
-scorelineupdate.com
-suezey.com
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/08/moonpeak-infrastructure-north-korea.json
-yoiroyse.store
-pumaria.store
-nmailhostserver.store
-nsonlines.store
+# Last update: 2025-08-13 23:59:37
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/09/DragonRank%2C%20a%20Chinese-speaking%20SEO%20manipulator%20service%20provider.json
 mail.tttseo.com
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/09/threat-actors-using-macropack.json
