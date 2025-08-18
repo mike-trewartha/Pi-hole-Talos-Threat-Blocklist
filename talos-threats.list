@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2025-08-13 23:59:37
+# Last update: 2025-08-18 01:49:09
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/09/DragonRank%2C%20a%20Chinese-speaking%20SEO%20manipulator%20service%20provider.json
 mail.tttseo.com
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/09/threat-actors-using-macropack.json
@@ -211,3 +211,5 @@ uniswap.prehireiq.com
 fast-video-recording.com
 api.fixdiskpro.online
 api.autocamfixer.online
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/08/uat-7237.json
+cvbbonwxtgvc3isfqfc52cwzja0kvuqd.lambda-url.ap-northeast-1.on.aws
