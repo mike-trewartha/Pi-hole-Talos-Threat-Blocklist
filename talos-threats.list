@@ -1,12 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2025-08-18 01:49:09
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/09/DragonRank%2C%20a%20Chinese-speaking%20SEO%20manipulator%20service%20provider.json
-mail.tttseo.com
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/09/threat-actors-using-macropack.json
-dns1.s-logistics.net
-dns2.s-logistics.net
-api.wilbderreis.ru
+# Last update: 2025-09-01 07:24:05
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/10/gophish-powerrat-dcrat.json
 disk-yanbex.ru
 e-connection.ru
