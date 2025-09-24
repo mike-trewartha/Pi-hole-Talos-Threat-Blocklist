@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2025-09-01 07:24:05
+# Last update: 2025-09-24 15:30:34
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/10/gophish-powerrat-dcrat.json
 disk-yanbex.ru
 e-connection.ru
@@ -207,3 +207,8 @@ api.fixdiskpro.online
 api.autocamfixer.online
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/08/uat-7237.json
 cvbbonwxtgvc3isfqfc52cwzja0kvuqd.lambda-url.ap-northeast-1.on.aws
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/09/how-rainyday-turian-and-a-new-plugx-variant-abuse-dll-search-order-hijacking.json
+pay.googleinstall.com
+mailserver.kozow.com
+newsinfom.org
+asp.asphspes.com
