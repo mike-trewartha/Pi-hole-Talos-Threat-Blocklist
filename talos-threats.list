@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2025-10-01 15:30:32
+# Last update: 2025-10-02 15:30:33
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/11/new-pxa-stealer.json
 tvdseo.com
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/01/new-tornet-backdoor-campaign.json
@@ -129,3 +129,34 @@ pay.googleinstall.com
 mailserver.kozow.com
 newsinfom.org
 asp.asphspes.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/09/uat-8099-chinese-speaking-cybercrime-group-seo-fraud.json
+aspx2.ggseocdn.com
+th1.ggseocdn.com
+bxphp.ggseocdn.com
+bx.ggseocdn.com
+list.ggseocdn.com
+ar.ggseocdn.com
+x2.ggseocdn.com
+x3.ggseocdn.com
+alex.rootggseo.com
+modll.win123888.com
+mo2dll.win123888.com
+cheng.win123888.com
+th1.win123888.com
+x5.westooo.com
+joydphp.westooo.com
+joyddll.westooo.com
+bx.westooo.com
+ar.mnnoxzmq.com
+iis.ihack.one
+mejsc1.com
+ceshi.mejsc4.com
+link.mejsc4.com
+meindi11.com
+mulu.ihack.one
+tdk.ihack.one
+xl.luodixijin.com
+xldll.xijingdafa.com
+google.dfbdfwrthgef.top
+buvmfuwecndskmkvhndfjk.dfbdfwrthgef.top
+suidcbdewjskbcsdjvbwehcsdj.dfbdfwrthgef.top
