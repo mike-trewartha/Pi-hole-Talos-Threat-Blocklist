@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2025-10-02 15:30:33
+# Last update: 2025-10-27 14:30:34
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2024/11/new-pxa-stealer.json
 tvdseo.com
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/01/new-tornet-backdoor-campaign.json
@@ -160,3 +160,6 @@ xldll.xijingdafa.com
 google.dfbdfwrthgef.top
 buvmfuwecndskmkvhndfjk.dfbdfwrthgef.top
 suidcbdewjskbcsdjvbwehcsdj.dfbdfwrthgef.top
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/10/uncovering-qilin-attack-methods-exposed-through-multiple-cases.json
+regsvchst.com
+holapor67.top
