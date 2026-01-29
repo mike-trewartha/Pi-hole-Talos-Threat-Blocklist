@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-01-01 14:30:31
+# Last update: 2026-01-29 14:30:35
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/02/lotus-blossom-espionage-group.json
 cebucafe.net
 cebucfg.org
@@ -152,3 +152,6 @@ suidcbdewjskbcsdjvbwehcsdj.dfbdfwrthgef.top
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/10/uncovering-qilin-attack-methods-exposed-through-multiple-cases.json
 regsvchst.com
 holapor67.top
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/01/uat-8099-new-persistence-mechanisms-and-regional-focus.json
+google.sneaws.com
+w3c.sneaws.com
