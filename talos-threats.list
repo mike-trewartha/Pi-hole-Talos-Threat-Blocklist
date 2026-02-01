@@ -1,18 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-01-29 14:30:35
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/02/lotus-blossom-espionage-group.json
-cebucafe.net
-cebucfg.org
-davaotour.net
-davoport.org
-jf.doyourbestyet.com
-ns1.poorgoddaay.com
-www.acdserv.com
-www.ilovekalias.com
-www.sensor-data.online
-www.serthk.com
-zg.poorgoddaay.com
+# Last update: 2026-02-01 14:30:33
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/04/US-Toll-Road-SMS.json
 wa-gtg.com
 goodtogo-wa.com
