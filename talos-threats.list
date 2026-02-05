@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-02-01 14:30:33
+# Last update: 2026-02-05 14:30:36
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/04/US-Toll-Road-SMS.json
 wa-gtg.com
 goodtogo-wa.com
@@ -143,3 +143,5 @@ holapor67.top
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/01/uat-8099-new-persistence-mechanisms-and-regional-focus.json
 google.sneaws.com
 w3c.sneaws.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/02/knife-cutting-the-edge.json
+ad.scgawj.com
