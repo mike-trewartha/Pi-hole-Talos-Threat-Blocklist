@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-02-05 14:30:36
+# Last update: 2026-02-26 14:30:38
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/04/US-Toll-Road-SMS.json
 wa-gtg.com
 goodtogo-wa.com
@@ -145,3 +145,14 @@ google.sneaws.com
 w3c.sneaws.com
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/02/knife-cutting-the-edge.json
 ad.scgawj.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/02/new-dohdoor-malware-campaign.json
+cjitdrpwnna.mswinsoftupdload.design
+lbandugzcfg.deepinspectionsystem.online
+lsypdqgxredfpx.mswinsoftupdload.design
+yhdjtylnsmwvuu.deepinspectionsystem.online
+sdxsiol.pnuisckmhwagzvdyjrlbeft.software
+ezqrvkfgejwctdnc.pnuisckmhwagzvdyjrlbeft.software
+txjiqslrrig.mswinsoftupdload.design
+qhtckzbxtkdvyr.mswinsoftupdload.design
+gitkzxd.pnuisckmhwagzvdyjrlbeft.software
+gppiwogwndiakkdu.pnuisckmhwagzvdyjrlbeft.software
