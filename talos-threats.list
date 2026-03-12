@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-03-06 14:30:36
+# Last update: 2026-03-12 14:31:02
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/04/US-Toll-Road-SMS.json
 wa-gtg.com
 goodtogo-wa.com
@@ -160,3 +160,9 @@ gppiwogwndiakkdu.pnuisckmhwagzvdyjrlbeft.software
 xtibh.com
 xcit76.com
 bloopencil.net
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/03/iran-middle-east.json
+elvenforest.s3.us-east-005.backblazeb2.com
+uppdatefile.com
+gitempire.s3.us-east-005.backblazeb2.com
+moonzonet.com
+serialmenot.com
