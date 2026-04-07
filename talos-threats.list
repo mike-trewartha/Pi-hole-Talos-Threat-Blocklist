@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-04-01 14:30:43
+# Last update: 2026-04-07 15:30:40
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/05/iocs_spam-campaign-abuses-rmm-tools.json
 198.45.54.34.bc.googleusercontent.com
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/05/uat-6382.json
@@ -122,3 +122,5 @@ uppdatefile.com
 gitempire.s3.us-east-005.backblazeb2.com
 moonzonet.com
 serialmenot.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/04/axios_supply_chain_incident.json
+sfrclak.com
