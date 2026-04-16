@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-04-08 15:30:40
+# Last update: 2026-04-16 15:30:40
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/05/iocs_spam-campaign-abuses-rmm-tools.json
 198.45.54.34.bc.googleusercontent.com
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/05/uat-6382.json
@@ -126,3 +126,8 @@ serialmenot.com
 sfrclak.com
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/04/new-lua-based-malware-lucidrook.json
 d.2fcc7078.digimg.store
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/04/powmix-botnet-targets-czech-workforce.json
+erpapp-901-53f1ea72f036.herokuapp.com
+crmassets-4a69a8e2b3ee.herokuapp.com
+crmassets-351-0ac3da22f804.herokuapp.com
+erpsync-120-f41cdcf813e4.herokuapp.com
