@@ -1,12 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-04-16 15:30:40
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/05/iocs_spam-campaign-abuses-rmm-tools.json
-198.45.54.34.bc.googleusercontent.com
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/05/uat-6382.json
-cdn.phototagx.com
-www.roomako.com
-lgaircon.xyz
+# Last update: 2026-05-01 15:30:37
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/06/python-version-of-golangghost-rat.json
 util.py
 api.quickcamfix.online
