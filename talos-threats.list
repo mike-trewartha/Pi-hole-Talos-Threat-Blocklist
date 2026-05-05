@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-05-01 15:30:37
+# Last update: 2026-05-05 15:30:41
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/06/python-version-of-golangghost-rat.json
 util.py
 api.quickcamfix.online
@@ -125,3 +125,13 @@ erpapp-901-53f1ea72f036.herokuapp.com
 crmassets-4a69a8e2b3ee.herokuapp.com
 crmassets-351-0ac3da22f804.herokuapp.com
 erpsync-120-f41cdcf813e4.herokuapp.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/05/cloudz-pheno-infostealer.json
+calm-wildflower-1349.hellohiall.workers.dev
+orange-cell-1353.hellohiall.workers.dev
+round-cherry-4418.hellohiall.workers.dev
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/05/uat-8302.json
+www.drivelivelime.com
+msiidentity.com
+trafficmanagerupdate.com
+image.update-kaspersky.workers.dev
+update-kaspersky.workers.dev
