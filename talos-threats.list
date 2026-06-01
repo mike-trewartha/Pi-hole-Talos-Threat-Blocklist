@@ -1,54 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-05-05 15:30:41
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/06/python-version-of-golangghost-rat.json
-util.py
-api.quickcamfix.online
-api.auto-fixer.online
-api.quickdriverupdate.online
-api.camtuneup.online
-api.driversofthub.online
-api.drive-release.cloud
-api.vcamfixer.online
-api.nvidia-drive.cloud
-api.nvidia-release.us
-api.autodriverfix.online
-api.camdriversupport.com
-api.smartdriverfix.cloud
-api.drivercams.cloud
-api.camtechdrivers.com
-api.web-cam.cloud
-api.camera-drive.org
-api.nvidia-release.org
-krakenhire.com
-yuga.skillquestions.com
-uniswap.speakure.com
-doodles.skillquestions.com
-www.hireviavideo.com
-kraken.livehiringpro.com
-quiz-nest.com
-www.smartvideohire.com
-www.talent-hiringstep.com
-provevidskillcheck.com
-skill.vidintermaster.com
-digitaltalent.review
-robinhood.ecareerscan.com
-evalswift.com
-livetalentpro.com
-quantumnodespro.com
-evalassesso.com
-parallel.eskillora.com
-coinbase.talentmonitoringtool.com
-uniswap.testforhire.com
-coinbase.talenthiringtool.com
-crosstheages.skillence360.com
-parallel.eskillprov.com
-assesstrack.com
-talent-hiringtalk.com
-uniswap.prehireiq.com
-fast-video-recording.com
-api.fixdiskpro.online
-api.autocamfixer.online
+# Last update: 2026-06-01 15:30:42
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/08/uat-7237.json
 cvbbonwxtgvc3isfqfc52cwzja0kvuqd.lambda-url.ap-northeast-1.on.aws
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/09/how-rainyday-turian-and-a-new-plugx-variant-abuse-dll-search-order-hijacking.json
