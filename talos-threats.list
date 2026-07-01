@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-06-01 15:30:42
+# Last update: 2026-07-01 15:30:39
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/08/uat-7237.json
 cvbbonwxtgvc3isfqfc52cwzja0kvuqd.lambda-url.ap-northeast-1.on.aws
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/09/how-rainyday-turian-and-a-new-plugx-variant-abuse-dll-search-order-hijacking.json
@@ -87,3 +87,17 @@ msiidentity.com
 trafficmanagerupdate.com
 image.update-kaspersky.workers.dev
 update-kaspersky.workers.dev
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/07/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365.json
+pamconj.com
+dashboard-bl.pamconj.com
+spx.pamconj.com
+clear90489058903-document.workers.dev
+917bedb0-554e-a8b9-79f1-docviewer.clear90489058903-document.workers.dev
+321a1392-939d-3bf5-4040-docviewer.clear90489058903-document.workers.dev
+98c4c82e-2d81-0837-e3d6-docviewer.clear90489058903-document.workers.dev
+112838d8-9a75-2e90-d63b-docviewer.clear90489058903-document.workers.dev
+aquaclaude-09494-9099403-docviewer.clear90489058903-document.workers.dev
+e5469cec-124a-c84f-abaa-docviewer.clear90489058903-document.workers.dev
+50a201fd-dd2d-cf72-5fa6-onedrive.clear90489058903-document.workers.dev
+reynoldsjace5.workers.dev
+50a201fd-dd2d-cf72-5fa6-adobe2.reynoldsjace5.workers.dev
