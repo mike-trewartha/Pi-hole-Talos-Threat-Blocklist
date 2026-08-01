@@ -1,8 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-07-23 15:30:41
-# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/08/uat-7237.json
-cvbbonwxtgvc3isfqfc52cwzja0kvuqd.lambda-url.ap-northeast-1.on.aws
+# Last update: 2026-08-01 15:30:37
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/09/how-rainyday-turian-and-a-new-plugx-variant-abuse-dll-search-order-hijacking.json
 pay.googleinstall.com
 mailserver.kozow.com
