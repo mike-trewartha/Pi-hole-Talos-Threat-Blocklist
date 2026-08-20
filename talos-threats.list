@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-08-13 15:30:43
+# Last update: 2026-08-20 15:30:51
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/09/how-rainyday-turian-and-a-new-plugx-variant-abuse-dll-search-order-hijacking.json
 pay.googleinstall.com
 mailserver.kozow.com
@@ -498,3 +498,8 @@ sg.erp.lta-fare.top
 sg.erp.lta-fart.top
 sg.erp.lta-farx.top
 sg.erp.lta-fary.top
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/08/UAT-10147%20deploys%20SPECTRE.json
+vip8888vn.xyz
+b.niupilao.vip
+vip.niupilao.vip
+udvyiwvfs.cyou
