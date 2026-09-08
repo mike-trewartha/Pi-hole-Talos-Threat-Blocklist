@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-09-01 15:30:43
+# Last update: 2026-09-08 15:30:44
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/10/uncovering-qilin-attack-methods-exposed-through-multiple-cases.json
 regsvchst.com
 holapor67.top
@@ -467,3 +467,50 @@ vip8888vn.xyz
 b.niupilao.vip
 vip.niupilao.vip
 udvyiwvfs.cyou
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/09/clearfake-webdav-infection-chain.json
+leaguejazire.com
+riyazinikokar.xyz
+metrics.demobunfiber.top
+lb.propertyfind.cc
+static.quorashift.cc
+kffd3.vexlatech.cc
+kffd3.vogueatelier.cc
+pkg.vogueatelier.cc
+fd.gstats-api-contact.cc
+mgo.gstats-api-contact.cc
+fd.gstats-api-contd.cc
+xn--b1aluem3j.gstats-api-contd.cc
+xn--i-ctbr1afp.gstats-api-contd.cc
+xn--b1ahgbfifq.gstats-api-cont.co
+sp13.gstats-api-cont.co
+sp13.gstats-api-coni.co
+sp1.gstats-api-coni.co
+fd-api-zog.velqo7.co
+fd-api-rop.velqo7.co
+fd-api-irc.velqo7.co
+fd-api-irs.velqo7.co
+fd-api-iris.velqo7.co
+wix.velqo7.co
+wdx.velqo7.co
+wdm.velqo7.co
+wdm.unguidedfreewill.co
+wdx.unguidedfreewill.co
+sdx.unguidedfreewill.co
+fgp.unguidedfreewill.co
+jup.unguidedfreewill.co
+dmt.unguidedfreewill.co
+tnt.unguidedfreewill.co
+paf.hugo-mapp.co
+pf.hugo-mapp.co
+fr.hugo-mapp.co
+en.hugo-mapp.co
+dau.hugo-mapp.co
+doh.hugo-mapp.co
+smart.hugo-mapp.co
+br.hugo-lapp.co
+pt.hugo-lapp.co
+geo.estimator-undermostshelving.in.net
+update.dubbedmuch.cc
+kr.cedar2glanz.ru
+phys.stunned-amniotic.com
+paternal-angrily.com
