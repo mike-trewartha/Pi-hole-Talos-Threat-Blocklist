@@ -1,6 +1,6 @@
 # Pi-Hole-Talos-IOCs
 # Created & Maintained by Mike T
-# Last update: 2026-09-08 15:30:44
+# Last update: 2026-09-30 15:30:41
 # @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2025/10/uncovering-qilin-attack-methods-exposed-through-multiple-cases.json
 regsvchst.com
 holapor67.top
@@ -514,3 +514,21 @@ update.dubbedmuch.cc
 kr.cedar2glanz.ru
 phys.stunned-amniotic.com
 paternal-angrily.com
+# @https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2026/09/uat-11587-targets-gov.json
+osc-cdn.com
+oisadjfoinsiduhfnoisdnfosdnoifnsoid.pages.dev
+d2nq35tel3ucuo.cloudfront.net
+pub-abfa7742e315485a98a5fafd6dbfb68e.r2.dev
+pub-0173d1566dcd4fd49fa25f11f14bfe4c.r2.dev
+my-3lyt6wcp.pages.dev
+my-qc39r814.pages.dev
+my-662ylt3w.pages.dev
+my-6g16qsfe.pages.dev
+my-goq6xmbm.pages.dev
+my-h3qli6kq.pages.dev
+my-sv7c1fzs.pages.dev
+my-u0up9qri.pages.dev
+my-vtsdod2n.pages.dev
+my-wgoxp32b.pages.dev
+microsoft-flash.com
+wps-cn.com
